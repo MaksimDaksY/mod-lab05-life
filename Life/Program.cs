@@ -151,32 +151,32 @@ namespace cli_life
 
         static Board()
         {
-            FigurePatterns["Блок"] = new HashSet<Point>
+            FigurePatterns["Block"] = new HashSet<Point>
             {
                 new Point(0,0), new Point(1,0),
                 new Point(0,1), new Point(1,1)
             };
-            FigurePatterns["Улей"] = new HashSet<Point>
+            FigurePatterns["Hive"] = new HashSet<Point>
             {
                 new Point(1,0),
                 new Point(0,1), new Point(2,1),
                 new Point(0,2), new Point(2,2),
                 new Point(1,3)
             };
-            FigurePatterns["Ящик"] = new HashSet<Point>
+            FigurePatterns["Box"] = new HashSet<Point>
             {
                 new Point(1,0),
                 new Point(0,1), new Point(2,1),
                 new Point(1,2)
             };
-            FigurePatterns["Пруд"] = new HashSet<Point>
+            FigurePatterns["Pond"] = new HashSet<Point>
             {
                 new Point(1,0), new Point(2,0),
                 new Point(0,1), new Point(3,1),
                 new Point(0,2), new Point(3,2),
                 new Point(1,3), new Point(2,3)
             };
-            FigurePatterns["Каравай"] = new HashSet<Point>
+            FigurePatterns["Loaf"] = new HashSet<Point>
             {
                 new Point(1,0), new Point(2,0),
                 new Point(0,1), new Point(3,1),

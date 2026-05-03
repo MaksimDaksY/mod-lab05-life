@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BIaSkRSmNqQ=",
+  "dgSpecHash": "J69HskEdG/A=",
   "success": true,
-  "projectFilePath": "D:\\6 semester, LR\\MIPIS\\Lab5\\mod-lab05-life\\LifeTests\\LifeTests.csproj",
+  "projectFilePath": "C:\\Users\\Максим\\Desktop\\Web\\mod-lab05-life\\LifeTests\\LifeTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Максим\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Максим\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

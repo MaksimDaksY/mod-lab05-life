@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4n07XQ6jTsk=",
+  "dgSpecHash": "n47YykOTo28=",
   "success": true,
-  "projectFilePath": "D:\\6 semester, LR\\MIPIS\\Lab5\\mod-lab05-life\\Life\\Life.csproj",
+  "projectFilePath": "C:\\Users\\Максим\\Desktop\\Web\\mod-lab05-life\\Life\\Life.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Максим\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\Максим\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"

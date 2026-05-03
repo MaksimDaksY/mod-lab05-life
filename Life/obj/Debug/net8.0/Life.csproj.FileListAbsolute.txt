@@ -18,3 +18,24 @@ D:\6 semester, LR\MIPIS\Lab5\mod-lab05-life\Life\obj\Debug\net8.0\refint\Life.dl
 D:\6 semester, LR\MIPIS\Lab5\mod-lab05-life\Life\obj\Debug\net8.0\Life.pdb
 D:\6 semester, LR\MIPIS\Lab5\mod-lab05-life\Life\obj\Debug\net8.0\Life.genruntimeconfig.cache
 D:\6 semester, LR\MIPIS\Lab5\mod-lab05-life\Life\obj\Debug\net8.0\ref\Life.dll
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\bin\Debug\net8.0\Life.exe
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\bin\Debug\net8.0\Life.deps.json
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\bin\Debug\net8.0\Life.runtimeconfig.json
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\bin\Debug\net8.0\Life.dll
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\bin\Debug\net8.0\Life.pdb
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\obj\Debug\net8.0\Life.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\obj\Debug\net8.0\Life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\obj\Debug\net8.0\Life.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\obj\Debug\net8.0\Life.AssemblyInfo.cs
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\obj\Debug\net8.0\Life.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\obj\Debug\net8.0\Life.sourcelink.json
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\obj\Debug\net8.0\Life.csproj.Up2Date
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\obj\Debug\net8.0\Life.dll
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\obj\Debug\net8.0\refint\Life.dll
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\obj\Debug\net8.0\Life.pdb
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\obj\Debug\net8.0\Life.genruntimeconfig.cache
+C:\Users\Максим\Desktop\Web\mod-lab05-life\Life\obj\Debug\net8.0\ref\Life.dll

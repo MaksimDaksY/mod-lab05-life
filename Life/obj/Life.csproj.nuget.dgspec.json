@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\6 semester, LR\\MIPIS\\Lab5\\mod-lab05-life\\Life\\Life.csproj": {}
+    "C:\\Users\\Максим\\Desktop\\Web\\mod-lab05-life\\Life\\Life.csproj": {}
   },
   "projects": {
-    "D:\\6 semester, LR\\MIPIS\\Lab5\\mod-lab05-life\\Life\\Life.csproj": {
+    "C:\\Users\\Максим\\Desktop\\Web\\mod-lab05-life\\Life\\Life.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\6 semester, LR\\MIPIS\\Lab5\\mod-lab05-life\\Life\\Life.csproj",
+        "projectUniqueName": "C:\\Users\\Максим\\Desktop\\Web\\mod-lab05-life\\Life\\Life.csproj",
         "projectName": "Life",
-        "projectPath": "D:\\6 semester, LR\\MIPIS\\Lab5\\mod-lab05-life\\Life\\Life.csproj",
+        "projectPath": "C:\\Users\\Максим\\Desktop\\Web\\mod-lab05-life\\Life\\Life.csproj",
         "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
-        "outputPath": "D:\\6 semester, LR\\MIPIS\\Lab5\\mod-lab05-life\\Life\\obj\\",
+        "outputPath": "C:\\Users\\Максим\\Desktop\\Web\\mod-lab05-life\\Life\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

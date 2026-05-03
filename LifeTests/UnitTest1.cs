@@ -132,7 +132,7 @@ namespace LifeTests
                 new Point(0,1), new Point(1,1)
             };
             string type = Board.ClassifyFigure(block);
-            Assert.AreEqual("Блок", type);
+            Assert.AreEqual("Block", type);
         }
 
         [TestMethod]
@@ -144,7 +144,7 @@ namespace LifeTests
                 new Point(0,2), new Point(2,2), new Point(1,3)
             };
             string type = Board.ClassifyFigure(hive);
-            Assert.AreEqual("Улей", type);
+            Assert.AreEqual("Hive", type);
         }
 
         [TestMethod]
@@ -155,7 +155,7 @@ namespace LifeTests
                 new Point(1,0), new Point(0,1), new Point(2,1), new Point(1,2)
             };
             string type = Board.ClassifyFigure(boat);
-            Assert.AreEqual("Ящик", type);
+            Assert.AreEqual("Box", type);
         }
 
         [TestMethod]
@@ -167,7 +167,7 @@ namespace LifeTests
                 new Point(0,2), new Point(3,2), new Point(1,3), new Point(2,3)
             };
             string type = Board.ClassifyFigure(pond);
-            Assert.AreEqual("Пруд", type);
+            Assert.AreEqual("Pond", type);
         }
 
         [TestMethod]
@@ -179,7 +179,7 @@ namespace LifeTests
                 new Point(1,2), new Point(3,2), new Point(2,3)
             };
             string type = Board.ClassifyFigure(loaf);
-            Assert.AreEqual("Каравай", type);
+            Assert.AreEqual("Loaf", type);
         }
 
         [TestMethod]
